@@ -1,1 +1,2 @@
 E:\Visual Studio 2015\Projects\AutoAttendance\AutoAttendance\自动考勤\bin\Debug\自动考勤.exe.config
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\bin\Debug\自动考勤.exe.config
