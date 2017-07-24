@@ -77,7 +77,6 @@ namespace AutoAttendance
 
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-
                 this.txt_ExcelPath2.Text = ofd.FileName;
                 this.txt_ExcelPath2.SelectionStart = this.txt_ExcelPath2.Text.Length;
             }
