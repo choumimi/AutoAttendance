@@ -1,2 +1,11 @@
 E:\Visual Studio 2015\Projects\AutoAttendance\AutoAttendance\自动考勤\bin\Debug\自动考勤.exe.config
 E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\bin\Debug\自动考勤.exe.config
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\bin\Debug\Templates\Template V1.0.xlsx
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\bin\Debug\自动考勤.exe
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\bin\Debug\自动考勤.pdb
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\obj\Debug\AutoAttendance.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\obj\Debug\AutoAttendance.Form1.resources
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\obj\Debug\自动考勤.Properties.Resources.resources
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\obj\Debug\AutoAttendance.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\obj\Debug\自动考勤.exe
+E:\Visual Studio 2015\AutoAttendance\AutoAttendance\自动考勤\obj\Debug\自动考勤.pdb
